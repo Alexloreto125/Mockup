@@ -1,0 +1,47 @@
+
+ header {
+    text-align: center;
+  }
+  img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 15%;
+}
+
+  main {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  footer {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  dl {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .idsty {
+    list-style: none;
+  }
+  h1 {
+    text-align: center;
+  }
+  #line {
+    width: 100%;
+  }
+  #border {
+    border-left: 1px solid orange;
+    padding: 0.5em;
+  }
+ 
+  h4 {
+    text-align: center;
+    background-color: #ffd70045;
+    border-top: solid #ffd70045;
+    padding: 0.5em;
+  }
+  .borderacqua{border-bottom: 1px solid aqua;
+padding: 0.5em;}
